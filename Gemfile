@@ -4,4 +4,5 @@ gem 'rspec'
 gem 'pry'
 gem 'rubocop'
 gem 'dotenv'
+gem 'twitter'
 
